@@ -1,1 +1,1 @@
-# malikg.github.io
+# https://malik-g.github.io/resume/
