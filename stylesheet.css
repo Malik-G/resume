@@ -65,3 +65,7 @@ img {
 .greyBack{ 
 	background: #DCDCDC;
 }
+
+.bold {
+   font-weight: bold;
+}
